@@ -4,6 +4,7 @@
   "description": "Proyecto de prueba en electron",
   "main": "index.js",
   "scripts": {
+    "dev": "electron src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/yitodeveloper/mypics/issues"
   },
-  "homepage": "https://github.com/yitodeveloper/mypics#readme"
+  "homepage": "https://github.com/yitodeveloper/mypics#readme",
+  "devDependencies": {
+    "electron": "^7.1.10"
+  }
 }
