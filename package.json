@@ -1,0 +1,19 @@
+{
+  "name": "mypics",
+  "version": "1.0.0",
+  "description": "Proyecto de prueba en electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yitodeveloper/mypics.git"
+  },
+  "author": "Rodrigo Ramirez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yitodeveloper/mypics/issues"
+  },
+  "homepage": "https://github.com/yitodeveloper/mypics#readme"
+}
