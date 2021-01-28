@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/yitodeveloper/mypics#readme",
   "devDependencies": {
-    "electron": "^7.1.10"
+    "electron": "^9.4.0"
   }
 }
